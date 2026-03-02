@@ -1,0 +1,6 @@
+Commands that I used ;mkdir to create Folders cd : to navigate in the folders cd .. : to go back , cd ../ helps to go back one step , touch : to create a file , mv : used it to move the files , cp  source/ destination/
+Why were the commands? they were correct because I used them on the right place according to the task.
+Mistakes that I encountered? I frequently missed putting the cd .. command when copying or moving which led to errrors
+The  difference between copying and moving? Copy > when a file is copied it remains at both ends while Moving > the files change there positions from one end to another.
+why can't a folder be delete nomarlly if it has files? it is because the normal command only deletes empyty foders.
+What happens if one tries to rename a folder that doesn't exist? the computer will say that no such directory exists.
